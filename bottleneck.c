@@ -5,9 +5,11 @@ I also showed my basics, in stuff like C++, which expands C.
 I know how we could essentially do this, you just need to help build it.
 We don't need to do example programs in C, since we already did that too.*/
 #ifdef _win32
-    char dir[20] = "C:\\"
+    char dir[20] = "C:\\";
 #elif __linux__
-    char dir[20] = "/"
+    char dir[20] = "/";
 #elif __APPLE__
-    char dir[20] = "/"
+    char dir[20] = "/";
 #endif
+
+chdir(dir);
