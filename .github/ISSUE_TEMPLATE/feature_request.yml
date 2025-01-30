@@ -1,0 +1,57 @@
+---
+name: "Feature Request"
+description: "Request a new feature that is not currently in development or planned."
+title: "[Feature]: "
+labels: ["enhancement"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🚀 Feature Request
+        Thank you for suggesting a new feature! Please fill out the form below.
+  
+  - type: input
+    id: feature-title
+    attributes:
+      label: "Feature Title"
+      description: "Provide a short and clear title for the feature."
+      placeholder: "e.g. Name Input"
+    validations:
+      required: true
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: "Feature Description"
+      description: "Describe the feature in detail. What does it do? How should it work?"
+      placeholder: "e.g. Allow the user to input their name and save it."
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: "Use Case"
+      description: "Explain how this feature would benefit users or improve the program."
+      placeholder: "e.g. This would allow users to personalize their experience."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: "Additional Context"
+      description: "Provide any extra details, screenshots, or references."
+      placeholder: "e.g. Other software that implements something similar."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: "Agreement"
+      description: "By submitting this request, you agree that you checked to make sure this feature is not currently in development."
+      options:
+        - label: "I confirm that this feature request is new and not already in development."
+          required: true
