@@ -5,7 +5,6 @@
 > [!CAUTION]
 > THIS IS DANGEROUS.<br>
 > THIS WILL DESTORY AN OS.<br>
-> DO NOT RUN THIS ON YOUR OWN HARDWARE.
 
 ## Setup
 Make sure your target is either on Linux or Windows.
