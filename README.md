@@ -1,10 +1,10 @@
 <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=129217&center=true&random=true&width=750&height=80&weight=25&lines=BOTTLENECK+AN+OS;DESTRUCTION;ON+LOW-LEVEL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=129217&center=true&random=true&width=750&height=80&weight=25&lines=KILL+AN+OS;DESTROY+IT;DESTROY+THE+OS" alt="Typing SVG" /></a>
 </p>
 
 > [!CAUTION]
 > THIS IS DANGEROUS.<br>
-> THIS WILL DESTORY AN OS.<br>
+> THIS WILL KILL AN OS.<br>
 
 ## Setup
 Make sure your target is either on Linux or Windows.
@@ -14,7 +14,7 @@ I don't know how to compile, or run ASM yet.
 Once, I do, I will put it here how to!
 
 ## LEGAL
-<a style='color:red'>I AM NOT RESPONSIBLE FOR ANYTHING THAT THIS IS USED FOR.</a>
+<a style='color:red'>I AM NOT RESPONSIBLE FOR ANY DAMAGES CAUSED BY THIS; DIRECTLY OR INDIRECTLY</a>
 
 ## Purpose
 This is for my OWN education.<br>
